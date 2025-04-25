@@ -16,5 +16,5 @@ Brain tumor detection in MRI scans using Convolutional Neural Networks (CNN).
 - `brain-tumor-mri-detection-using-cnn.ipynb`: Main notebook for analysis/model.
 
 ## 👤 Author
-Mena Nabil Samir
+Mena Nabil Samir 
 
