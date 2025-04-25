@@ -1,40 +1,29 @@
 # Brain Tumor MRI Detection Using CNN
 
-This project uses Convolutional Neural Networks (CNN) to detect brain tumors in MRI scans.
 
-## Features
+Brain tumor detection in MRI scans using Convolutional Neural Networks (CNN).
 
-- Deep learning implementation with practical applications
-- Jupyter Notebook for easy understanding and execution
-- Clean code and structured project
+#🔍 Key Questions Answered
 
-## Structure
+Can we classify MRI scans as tumor or non-tumor?
 
-```
-brain-tumor-mri-detection-cnn/
-├── brain-tumor-mri-detection-using-cnn.ipynb
-├── README.md
-├── requirements.txt
-```
+What architecture gives the best detection accuracy?
 
-## Installation
+How does the model perform on unseen data?
 
-1. Clone the repository or download the ZIP.
-2. Create a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+#🔧 Tools Used
 
-4. Run the notebook:
-   ```bash
-   jupyter notebook
-   ```
+Pandas, NumPy, Matplotlib, Seaborn
 
-## License
+Scikit-learn, TensorFlow/Keras (where applicable)
 
-MIT License
+Jupyter Notebook
+
+#📁 Files
+
+brain-tumor-mri-detection-using-cnn.ipynb: Main notebook for analysis/model.
+
+#👤 Author
+
+Mena Nabil Samir
+
